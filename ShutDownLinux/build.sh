@@ -1,0 +1,1 @@
+g++ -fPIC -shared -I /usr/lib/jvm/openlogic-openjdk-8-hotspot-amd64/include  -I /usr/lib/jvm/openlogic-openjdk-8-hotspot-amd64/include/linux -I /home/webster/jterm/ -o /home/webster/jterm/libShutDownLinux.so /home/webster/jterm/ShutDownLinux.cpp
